@@ -1,0 +1,21 @@
+{
+  "name": "atividadetabuada",
+  "version": "1.0.0",
+  "description": "Atividade tabuada",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThalitaZanoni/AtividadeTabuada.git"
+  },
+  "author": "Thalita Zanoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThalitaZanoni/AtividadeTabuada/issues"
+  },
+  "homepage": "https://github.com/ThalitaZanoni/AtividadeTabuada#readme"
+}
